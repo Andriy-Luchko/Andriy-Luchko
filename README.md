@@ -1,6 +1,5 @@
 # About Me:
-I interned at Penn Mutual working with Java, Spring, MySQL and jQuery and will be interning at Capital One this summer<br><br>I am currently working on web-development with React (with CodePath)<br>Currently taking "Operating Systems and Systems Programming" and "Data Structures and Algorithms"<br><br>I enjoy doing some leetcode contests when I find the time and attending hackathons
-
+Prev Intern at Capital One and Penn Mutual
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andriyluchko) 
